@@ -1,57 +1,61 @@
 <h1 align="center">Hi 👋, I'm Shrikant Birajdar</h1>
-<h3 align="center">A passionate Full-Stack & Mobile Developer from India</h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=shrikant-452&label=Profile%20views&color=0e75b6&style=flat" alt="shrikant-452" /> 
+<!-- Animated Typing Effect -->
+<p align="center">
+  <a href="https://github.com/shrikant-452">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Mobile+Developer;Computer+Science+Student+at+PAHSU;Building+Scalable+Web+%26+Mobile+Apps" alt="Typing SVG" />
+  </a>
 </p>
 
+<!-- Profile Views Badge -->
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shrikant-452" alt="shrikant-452" />
-  </a> 
+  <img src="https://komarev.com/ghpvc/?username=shrikant-452&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> 
 </p>
 
----
+<br/>
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **[Servicify](https://github.com/servicifyltd-svg/servicify_app_user.git)**
-- 🌱 I’m currently learning **React Native, Node.js Architecture, and Cloud Deployment**
-- 👯 I’m looking to collaborate on **Full-Stack & Mobile App Projects**
-- 🤝 I’m looking for help with **Advanced React Native & System Design**
-- 👨‍💻 All of my projects are available at **[solapurgurukulam.com](https://solapurgurukulam.com)**
-- 💬 Ask me about **React Native, React.js, Node.js, MongoDB, JavaScript**
-- 📫 How to reach me: **shrikantbirajdar452@gmail.com**
-- 📄 Know about my experiences on **[LinkedIn](https://www.linkedin.com/in/shrikantbirajdar/)**
-- ⚡ Fun fact: **I turn coffee and clean code into responsive cross-platform apps!**
+* 🔭 **Currently working on:** [Servicify](https://github.com/servicifyltd-svg/servicify_app_user.git)
+* 🌱 **Currently learning:** React Native, Node.js Architecture, and Cloud Deployment
+* 👨‍💻 **Portfolio & Projects:** [solapurgurukulam.com](https://solapurgurukulam.com)
+* 🤝 **Looking to collaborate on:** Full-Stack & Mobile App Projects
+* 💬 **Ask me about:** React Native, React.js, Node.js, MongoDB, JavaScript
+* ⚡ **Fun fact:** I turn coffee and clean code into responsive cross-platform apps!
 
----
+<br/>
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
+<h3 align="center">🛠️ Tech Stack</h3>
+
+<!-- Modern Uniform Skill Icons -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,java,python,cpp,android,git,github,vscode&perline=8" alt="Tech Stack Icons" />
+  </a>
 </p>
 
----
+<br/>
 
 <h3 align="center">📊 GitHub Stats</h3>
+
+<!-- Tokyo Night Themed Stat Cards -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrikant-452&show_icons=true&locale=en" alt="shrikant-452" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shrikant-452&show_icons=true&locale=en&layout=compact" alt="shrikant-452" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shrikant-452&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=1F222E" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shrikant-452&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E" alt="Top Languages" />
 </p>
 
-<h3 align="center">📫 Connect with me:</h3>
+<br/>
+
+<h3 align="center">📫 Connect with me</h3>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/shrikantbirajdar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/mr_shri_birajdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/shrikantbirajdar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:shrikantbirajdar452@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/mr_shri_birajdar" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
